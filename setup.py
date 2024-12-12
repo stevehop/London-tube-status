@@ -7,7 +7,7 @@ REQUIRES = ["aiohttp"]
 setup(
     name="london-tube-status",
     version=VERSION,
-    url="https://github.com/robmarkcole/London-tube-status",
+    url="https://github.com/stevehop/London-tube-status",
     author="Robin Cole",
     author_email="robmarkcole@gmail.com",
     description="Parse London tube data into a dictionary",
